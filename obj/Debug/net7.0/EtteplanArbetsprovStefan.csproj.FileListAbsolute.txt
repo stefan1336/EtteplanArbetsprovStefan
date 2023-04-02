@@ -1,0 +1,15 @@
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\bin\Debug\net7.0\EtteplanArbetsprovStefan.exe
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\bin\Debug\net7.0\EtteplanArbetsprovStefan.deps.json
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\bin\Debug\net7.0\EtteplanArbetsprovStefan.runtimeconfig.json
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\bin\Debug\net7.0\EtteplanArbetsprovStefan.dll
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\bin\Debug\net7.0\EtteplanArbetsprovStefan.pdb
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\obj\Debug\net7.0\EtteplanArbetsprovStefan.csproj.AssemblyReference.cache
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\obj\Debug\net7.0\EtteplanArbetsprovStefan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\obj\Debug\net7.0\EtteplanArbetsprovStefan.AssemblyInfoInputs.cache
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\obj\Debug\net7.0\EtteplanArbetsprovStefan.AssemblyInfo.cs
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\obj\Debug\net7.0\EtteplanArbetsprovStefan.csproj.CoreCompileInputs.cache
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\obj\Debug\net7.0\EtteplanArbetsprovStefan.dll
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\obj\Debug\net7.0\refint\EtteplanArbetsprovStefan.dll
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\obj\Debug\net7.0\EtteplanArbetsprovStefan.pdb
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\obj\Debug\net7.0\EtteplanArbetsprovStefan.genruntimeconfig.cache
+C:\Programmering\Hemuppgifter\EtteplanArbetsprovStefan\EtteplanArbetsprovStefan\obj\Debug\net7.0\ref\EtteplanArbetsprovStefan.dll
